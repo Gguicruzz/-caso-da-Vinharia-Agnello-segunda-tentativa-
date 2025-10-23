@@ -18,7 +18,7 @@ Este site foi desenvolvido como parte de um projeto acadêmico para aplicar conc
 
 
 ## 🌐 Link do site no GitHub Pages
-🔗 [Acesse aqui](https://**seuusuario**.github.io/**nome-do-repositorio**/)
+🔗 [Acesse aqui](https://github.com/Gguicruzz/-caso-da-Vinharia-Agnello-segunda-tentativa-)
 
 ---
 
