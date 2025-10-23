@@ -42,24 +42,10 @@ Este site foi desenvolvido como parte de um projeto acadêmico para aplicar conc
 
 ---
 
-## ⚙️ Regras de Colaboração
-- Até **5 integrantes** por grupo.  
-- Cada integrante deve realizar **pelo menos 2 commits**.  
-- Entrega via **Teams** com:
-  - Link do repositório no GitHub  
-  - Link do site publicado no GitHub Pages  
+ 
 
 ---
 
-## 🧪 Critérios de Avaliação
-| Critério | Pontos |
-|-----------|--------:|
-| Uso correto de pseudo-classes | 20 |
-| Uso criativo de pseudo-elementos | 20 |
-| Animações e transformações visuais | 20 |
-| Clareza e leveza nos efeitos | 20 |
-| Organização e documentação | 20 |
-| **Total** | **100** |
 
 ---
 
