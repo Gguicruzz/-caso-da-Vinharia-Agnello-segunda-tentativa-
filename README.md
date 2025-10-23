@@ -1,45 +1,81 @@
-# -caso-da-Vinharia-Agnello-segunda-tentativa-
+# 🍷 Vinharia Agnello
 
-# Vinheria Agnello
+## 🏷️ Nome do Projeto
+**Vinharia Agnello — Checkpoint 02**
 
-## Descrição do Projeto
-Este projeto consiste no desenvolvimento de um site para a Vinheria Agnello, uma vinheria tradicional de São Paulo com mais de 15 anos de atuação. O objetivo do site é oferecer aos clientes uma experiência online próxima àquela encontrada na loja física, apresentando informações sobre a vinheria, produtos, equipe e contato.
+## 📝 Breve Descrição
+A **Vinheria Agnello** é uma loja fictícia de vinhos que atua em São Paulo há mais de 15 anos, oferecendo rótulos nacionais e internacionais.  
+Este site foi desenvolvido como parte de um projeto acadêmico para aplicar conceitos de HTML, CSS e efeitos visuais modernos.
 
-O site foi desenvolvido como parte do Check-Point de disciplinas do 1º ano do curso de Engenharia de Software, utilizando HTML, CSS e boas práticas de semântica, SEO e usabilidade.
+## 🧩 Estrutura do Projeto
+- `index.html` → página principal da vinheria  
+- `src/assets/img/css/pages/` → páginas secundárias (História, Equipe, Contato, Produtos)  
+- `src/css/style.css` → estilos principais  
+- `src/css/efeitos.css` → **(Novo)** arquivo com pseudo-classes, pseudo-elementos e animações  
 
-## Estrutura do Projeto
-vinheria-agnello/
-│
-├── index.html → Página inicial com introdução, imagem e vídeo
-├── README.md → Este arquivo
-├── src/
-│ ├── assets/
-│ │ └── imgs/ → Todas as imagens utilizadas no site
-│ ├── css/
-│ │ └── style.css → Arquivo de estilos CSS
-│ └── pages/
-│ ├── historia.html → História da Vinheria Agnello
-│ ├── produtos.html → Catálogo de vinhos com tabela
-│ ├── contato.html → Formulário de contato
-│ └── equipe.html → Informações sobre a equipe
+## 👥 Integrante
+- Guilherme cruz alves 
 
-markdown
-Copy code
 
-## Páginas do Site
-- **Início (index.html)**: Apresentação da Vinheria Agnello, imagem principal e vídeo do YouTube.  
-- **História (historia.html)**: Trajetória da vinheria com lista de fatos históricos e imagens.  
-- **Produtos (produtos.html)**: Catálogo de vinhos com tabela de informações e imagens.  
-- **Contato (contato.html)**: Formulário de contato com campos de nome, e-mail e mensagem.  
-- **Equipe (equipe.html)**: Apresentação da equipe, fotos e descrições.
+## 🌐 Link do site no GitHub Pages
+🔗 [Acesse aqui](https://**seuusuario**.github.io/**nome-do-repositorio**/)
 
-## Tecnologias Utilizadas
-- HTML5 com tags semânticas
-- CSS3 com classes e IDs
-- SEO com meta tags (keywords e description)
-- Formulário com inputs e textarea
-- Tabela HTML
-- Imagens e vídeo incorporado
+---
 
-## Integrantes do Grupo
-- Guilherme Cruz Alves
+## ✨ Seção: Efeitos Visuais
+### 🔸 Pseudo-classes
+- `:hover` — aplica destaque em botões, cards e navegação.  
+- `:focus-within` — usado em cards para realçar campos em foco.  
+- `:active` — animação de clique para botões e elementos interativos.  
+
+### 🔸 Pseudo-elementos
+- `::before` — cria brilho suave decorativo nos cards.  
+- `::after` — adiciona efeitos circulares e sublinhados animados em links.  
+
+### 🔸 Animações (`@keyframes`)
+- `float-up` — leve flutuação aplicada ao título principal.  
+- `fade-in` — entrada suave dos elementos principais.  
+
+### 🔸 Transformações e Transições
+- `scale()` e `rotate()` em cards e botões.  
+- `transition` para suavizar todos os efeitos interativos.  
+
+---
+
+## ⚙️ Regras de Colaboração
+- Até **5 integrantes** por grupo.  
+- Cada integrante deve realizar **pelo menos 2 commits**.  
+- Entrega via **Teams** com:
+  - Link do repositório no GitHub  
+  - Link do site publicado no GitHub Pages  
+
+---
+
+## 🧪 Critérios de Avaliação
+| Critério | Pontos |
+|-----------|--------:|
+| Uso correto de pseudo-classes | 20 |
+| Uso criativo de pseudo-elementos | 20 |
+| Animações e transformações visuais | 20 |
+| Clareza e leveza nos efeitos | 20 |
+| Organização e documentação | 20 |
+| **Total** | **100** |
+
+---
+
+## ✅ Checklist do Checkpoint 02
+- [x] 3 pseudo-classes aplicadas  
+- [x] 2 pseudo-elementos usados  
+- [x] Animação com `@keyframes`  
+- [x] 2 transformações (`scale`, `rotate`)  
+- [x] Transições em elementos interativos  
+- [x] `efeitos.css` criado e importado  
+- [x] `README.md` atualizado  
+
+---
+
+## 💻 Como testar
+1. Abra o arquivo `index.html` em seu navegador.  
+2. Passe o mouse sobre os **botões e links** para ver as transições.  
+3. Observe as **animações de entrada** e os **efeitos decorativos** nos cards.  
+4. Verifique no console se todos os arquivos CSS foram carregados corretamente.  
