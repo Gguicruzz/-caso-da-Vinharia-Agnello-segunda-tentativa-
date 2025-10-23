@@ -60,8 +60,3 @@ Este site foi desenvolvido como parte de um projeto acadêmico para aplicar conc
 
 ---
 
-## 💻 Como testar
-1. Abra o arquivo `index.html` em seu navegador.  
-2. Passe o mouse sobre os **botões e links** para ver as transições.  
-3. Observe as **animações de entrada** e os **efeitos decorativos** nos cards.  
-4. Verifique no console se todos os arquivos CSS foram carregados corretamente.  
